@@ -1,23 +1,33 @@
 body{
-    background-color: pink;
+    background-color: red;
 }
 
 h1 {
     font-weight: bolder;
     font-size: 50px;
+    color: yellow;
 }
 
 h2 {
-    font-weight: light;
-    font-size: 20px;
+    font-weight: bold;
+    font-size: 30px;
     text-decoration: underline;
 }
 
 p {
-    font-family: Courier;
+    font-family: Helvetica;
 }
 
 ul{
-    list-style-type: disc;
+    list-style-type: square;
 }
 
+img{
+    width: 300px;
+    border: 5px;
+    border-color: #4f4cf7;
+}
+
+div.step4{
+    background-color: darkkhaki;
+}
